@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/badge/-@ishawn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_ishawn_)](https://twitter.com/_ishawn_) [![Linkedin Badge](https://img.shields.io/badge/-ishan-khandelwal-apk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-khandelwal-apk/)](https://www.linkedin.com/in/ishan-khandelwal-apk/)
+[![Twitter Badge](https://img.shields.io/badge/-@ishawn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_ishawn_)](https://twitter.com/_ishawn_) [![Linkedin Badge](https://img.shields.io/badge/-ishankhandelwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-khandelwal-apk/)](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 [![Gmail Badge](https://img.shields.io/badge/-axil.ishan3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axil.ishan3@gmail.com)](mailto:axil.ishan3@gmail.com)
 ---
 
