@@ -3,7 +3,7 @@
 ---
 
 # Welcome 
-I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I try my best to be a full stack App Developer. I am currently learning backend web development using Python and Flask and I love to try out new languages and domains. My first language is Java, followed by Python. I have worked in the field of Computer Vision using openCV. I am planning to dive into Blockchains using Etheruem and Solidity.
+I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I am a part of IEEE-VIT, Codechef-VIT and SmokeTress. I try my best to be a full stack App Developer. I am currently learning backend web development using Python and Flask and I love to try out new languages and domains. My first language is Java, followed by Python. I have worked in the field of Computer Vision using openCV. I am planning to dive into Blockchains using Etheruem and Solidity.
 
 <img src="https://github.com/Ishan-001/ishan-apk/blob/master/img/about-bg.jpg">
 
