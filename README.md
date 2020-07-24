@@ -13,7 +13,7 @@ I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I 
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
-- ⚡ Fun fact: I am also a pianist.
+- ⚡ Fun fact: I am also a pianist🎹.
 
 ![](https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true)
 
