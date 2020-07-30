@@ -9,10 +9,11 @@ I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I 
 
 ### Summary👋
 - 🔭 I’m currently working on OpenCV.
-- 👨🏼‍💻 Skilled in Android Development. Also worked with Flask microframework.
+- 👨 Skilled in Android Development. Have also worked with Flask.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
+- 💻 Languages: Java, Python, HTML, CSS, Javascript, C, C++, Kotlin
 - ⚡ Fun fact: I am also a pianist🎹.
 
 ![](https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true)
