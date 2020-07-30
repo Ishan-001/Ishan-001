@@ -13,7 +13,12 @@ I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I 
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
-- 💻 Languages: Java, Python, HTML, CSS, Javascript, C, C++, Kotlin
+- 💻 Languages: ![javascript](http://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&style=flat-square&color=brown)
+![kotlin](http://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&style=flat-square&color=black)
+![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=yellow)
+![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
+![C++](http://img.shields.io/static/v1?logo=c++&label=&message=C++&style=flat-square&color=purple)
+
 - ⚡ Fun fact: I am also a pianist🎹.
 
 ![](https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true)
