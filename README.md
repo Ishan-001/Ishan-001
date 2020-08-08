@@ -8,8 +8,8 @@ I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I 
 <img src="https://github.com/Ishan-001/ishan-apk/blob/master/img/about-bg.jpg">
 
 ### Summary👋
-- 🔭 I’m currently working on OpenCV.
-- 👨 Skilled in Android Development. Have also worked with Flask.
+- 🔭 I’m currently experimenting with OpenCV. I plan on working with Blockchains.
+- 👨 Skilled in Android Development. I have also worked with Flask with basic HTML, CSS, JS, Bootstrap. 
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
@@ -21,6 +21,9 @@ I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I 
 ![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
 ![C++](http://img.shields.io/static/v1?logo=c++&label=&message=C++&style=flat-square&color=purple)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-001)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ishan-001.Ishan-001)
+
+
