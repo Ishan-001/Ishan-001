@@ -17,11 +17,9 @@ A bike ride is the solution to all my problems.
 - 😄 Pronouns: Android Developer.
 - ⚡ Fun fact: I am also a pianist🎹.
 
-![javascript](http://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&style=flat-square&color=brown)
 ![kotlin](http://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&style=flat-square&color=black)
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=yellow)
 ![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
-![C++](http://img.shields.io/static/v1?logo=c++&label=&message=C++&style=flat-square&color=purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-001)](https://github.com/anuraghazra/github-readme-stats)
 
