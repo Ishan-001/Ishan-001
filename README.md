@@ -10,8 +10,8 @@ A bike ride is the solution to all my problems.
 <img src="https://github.com/Ishan-001/ishan-apk/blob/master/img/about-bg.jpg">
 
 ### Summary👋
-- 🔭 I’m currently experimenting with OpenCV. I plan on working with Blockchains.
-- 👨 Skilled in Android Development. I have also worked with Flask with basic HTML, CSS, JS, Bootstrap. 
+- 🔭 I’m currently experimenting with Augmented Reality with Unity. I plan on working with Blockchains.
+- 👨 Skilled in Android Development. I have also worked with Flask with basic HTML, CSS, JS, Bootstrap. I have also explored openCV.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
