@@ -11,7 +11,7 @@ A bike ride is the solution to all my problems.
 
 ### Summary👋
 - 🔭 I’m currently experimenting with Augmented Reality with Unity. I plan on working with Blockchains.
-- 👨 Skilled in Android Development. I have also worked with Flask with basic HTML, CSS, JS, Bootstrap. I have also explored openCV.
+- 👨 Skilled in Android Development. I have also worked with Flask and basic HTML, CSS, JS, Bootstrap. I have also explored openCV.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
