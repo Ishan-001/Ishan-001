@@ -5,7 +5,7 @@
 # Bienvenida
 I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I am a part of IEEE-VIT, Codechef-VIT and a freelancing company called SmokeTress. I try my best to be a full stack App Developer. I love to try out new languages and domains. My first language is Java, followed by Python. 
 
-A bike ride is the solution to all my problems.
+A bike ride is the solution to all my problems
 
 <img src="https://github.com/Ishan-001/ishan-apk/blob/master/img/about-bg.jpg">
 
