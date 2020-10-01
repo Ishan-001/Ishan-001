@@ -3,7 +3,10 @@
 ---
 
 # Bienvenida
-I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I am a part of IEEE-VIT, Codechef-VIT and a freelancing company called SmokeTress. I try my best to be a full stack App Developer. I love to try out new languages and domains. My first language is Java, followed by Python. 
+I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. 
+Organisations: IEEE-VIT, Codechef-VIT, SmokeTress, Society of AI, HealthByte. 
+
+I try my best to be a full stack App Developer. I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. 
 
 A bike ride is the solution to all my problems
 
@@ -11,7 +14,7 @@ A bike ride is the solution to all my problems
 
 ### Summary👋
 - 🔭 I’m currently experimenting with Augmented Reality with Unity. I plan on working with Blockchains.
-- 👨 Skilled in Android Development. I have also worked with Flask and basic HTML, CSS, JS, Bootstrap. I have also explored Computer Vision.
+- 👨 Skilled in Android Development. Have also worked with OpenCV, Flask, HTML, CSS, JS, Dart, Flutter, React, OpenCV.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
