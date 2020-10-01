@@ -4,7 +4,7 @@
 
 # Bienvenida
 I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. 
-Organisations: IEEE-VIT, Codechef-VIT, SmokeTress, Society of AI, HealthByte. 
+Organisations: IEEE-VIT, Codechef-VIT, SmokeTress, Society of AI, HealthByte, Coding Blocks. 
 
 I try my best to be a full stack App Developer. I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. 
 
