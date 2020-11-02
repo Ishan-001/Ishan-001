@@ -13,7 +13,7 @@ A bike ride is the solution to all my problems
 <img src="https://github.com/Ishan-001/ishan-apk/blob/master/img/about-bg.jpg">
 
 ### Summary👋
-- 🔭 I’m currently experimenting with Augmented Reality with Unity(C#). I plan on working with Blockchains.
+- 🔭 I’m currently experimenting in Game development with Unity(C#). I plan on working with Blockchains.
 - 👨 Skilled in Android Development. Have also worked with OpenCV, Flask, HTML, CSS, JS, Dart, Flutter, React.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
