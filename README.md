@@ -6,7 +6,7 @@
 I am a student of VIT Vellore, currently pursuing B.Tech in Computer Science. I try my best to be a full stack App Developer. I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. 
 
 ### Organisations: 
-IEEE-VIT, Codechef-VIT, SmokeTress, Society of AI, HealthByte, Coding Blocks. 
+IEEE-VIT, Codechef-VIT, SmokeTress, GDG Bangalore, Coding Blocks, Developer Circles by Facebook. 
 
 A bike ride is the solution to all my problems
 
