@@ -10,7 +10,7 @@ IEEE-VIT, Codechef-VIT, SmokeTress, GDG Bangalore, Coding Blocks, Developer Circ
 
 A bike ride is the solution to all my problems
 
-<img src="https://github.com/Ishan-001/ishan-apk/blob/master/img/about-bg.jpg">
+<img src="https://github.com/Ishan-001/ishan-apk/blob/master/img/android_img.jpeg">
 
 ### Summary👋
 - 🔭 I’m currently experimenting in Game development with Unity(C#). I plan on working with Blockchains.
