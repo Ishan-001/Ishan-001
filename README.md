@@ -21,7 +21,7 @@ A bike ride is the solution to all my problems
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer.
 - ⚡ Fun fact: I am also a pianist🎹.
-- 💻 [Portfolio](https://ishan-001.github.io/ishan.apk/)
+- 💻 [Portfolio](https://ishan-001.github.io/Portfolio/)
 
 ![kotlin](http://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&style=flat-square&color=black)
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=yellow)
