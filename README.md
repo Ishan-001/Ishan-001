@@ -15,7 +15,7 @@ A bike ride is the solution to all my problems
 </p>
 
 ### Summary👋
-- 🔭 I’m currently experimenting in Game development with Unity(C#). I plan on working with Blockchains.
+- 🔭 I’m currently experimenting with Game development in Unity(C#). I plan on working with Blockchains.
 - 👨 Skilled in Android Development. Have also worked with OpenCV, Flask and basic Frontend.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
