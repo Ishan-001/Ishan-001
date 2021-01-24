@@ -8,7 +8,7 @@ I am a sophpmore at VIT Vellore pursuing B.Tech in Computer Science. I try my be
 ### Organisations: 
 IEEE-VIT, Codechef-VIT, SmokeTress, GDG Bangalore, Coding Blocks, Developer Circles by Facebook. 
 
-A bike ride is the solution to all my problems
+A bike ride is the solution to all my problems.
 
 <p align="center">
   <img src="https://github.com/Ishan-001/ishan.apk/blob/master/avatar.svg" />
