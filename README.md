@@ -16,7 +16,7 @@ A bike ride is the solution to all my problems.
 
 ### Summary👋
 - 🔭 I’m currently experimenting with Game development in Unity(C#). I plan on working with Blockchains.
-- 👨 Skilled in Android Development. Have also worked with OpenCV, Flask and basic Frontend.
+- 👨 Skilled in Android Development. Have also worked with AR, OpenCV, Flask and basic Frontend.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer, Unity Developer.
