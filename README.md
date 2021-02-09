@@ -15,8 +15,8 @@ A bike ride is the solution to all my problems.
 </p>
 
 ### Summary👋
-- 🔭 I’m currently experimenting with Augmented Reality/Game Development. I plan on working with Blockchains.
-- 👨 Skilled in Android Development. Have also worked with AR, OpenCV, Flask and basic Frontend.
+- 🔭 I’m currently learning data science. I plan on working with Blockchains.
+- 👨 Skilled in Android Development. Have also worked with AR, OpenCV, Flask and Gamedev.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer, Python Developer.
