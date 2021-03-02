@@ -15,7 +15,7 @@ A bike ride is the solution to all my problems.
 </p>
 
 ### Summary👋
-- 🔭 I’m currently learning data science. I plan on working with Blockchains.
+- 🔭 I’m currently working in data science. I plan on working with Blockchains.
 - 👨 Skilled in Android Development. I Have also worked with Unity.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
