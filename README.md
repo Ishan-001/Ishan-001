@@ -19,7 +19,7 @@ A bike ride is the solution to all my problems.
 - 👨 Skilled in Android Development. I Have also worked with Unity.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
-- 😄 Pronouns: Android Developer, Python Developer, Unity Developer.
+- 😄 Pronouns: Android Developer, Python Developer
 - ⚡ Fun fact: I am also a pianist🎹.
 - 💻 [Portfolio](https://ishan-001.github.io/Portfolio/)
 
