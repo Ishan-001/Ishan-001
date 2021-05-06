@@ -3,7 +3,7 @@
 ---
 
 # Welcome!
-I am a sophpmore at VIT Vellore pursuing B.Tech in Computer Science. I try my best to be a full stack App Developer and I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. 
+I am a sophpmore at VIT Vellore pursuing B.Tech in Computer Science. I am a full stack App Developer and I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. 
 
 ### Teams & Organisations: 
 IEEE-VIT, Codechef-VIT, SmokeTress, BroCode. 
