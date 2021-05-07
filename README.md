@@ -31,7 +31,7 @@ A bike ride on the hills is the solution to all my problems.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-001)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true)
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true&locale=en&theme=blue-green" alt="Ishan-001" width="400" />
 
 
 
