@@ -29,6 +29,6 @@ A bike ride on the hills is the solution to all my problems.
 ![c](http://img.shields.io/static/v1?logo=c&label=&message=C&style=flat-square&color=blue)
 ![typescript](http://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&style=flat-square&color=purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-001&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-001&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true&locale=en&theme=blue-green" alt="Ishan-001" width="400" />
