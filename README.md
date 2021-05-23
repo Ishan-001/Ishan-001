@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-axil.ishan3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axil.ishan3@gmail.com)](mailto:axil.ishan3@gmail.com)
 ---
 
-# Hey!
+# Sup!
 I am a sophpmore at VIT Vellore pursuing B.Tech in Computer Science. I am a full stack App Developer and I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. I work as a software developer in Travel Buddy.
 
 ### Teams & Organisations: 
@@ -29,6 +29,6 @@ A bike ride on the hills is the solution to all my problems.
 ![c](http://img.shields.io/static/v1?logo=c&label=&message=C&style=flat-square&color=blue)
 ![typescript](http://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&style=flat-square&color=purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-001&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-001&exclude_repo=Portfolio&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ishan-001&show_icons=true&locale=en&theme=blue-green" alt="Ishan-001" width="400" />
