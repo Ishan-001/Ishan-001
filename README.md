@@ -8,7 +8,7 @@ I am a sophpmore at VIT Vellore pursuing B.Tech in Computer Science. I am a full
 ### Teams & Organisations: 
 IEEE-VIT, Codechef-VIT, SmokeTress, BroCode, Travel-Buddy. 
 
-A bike ride on the hills is the solution to all my problems.
+A bike ride in the hills is the solution to all my problems.
 
 <p align="center">
   <img src="https://github.com/Ishan-001/ishan.apk/blob/master/avatar.svg" />
