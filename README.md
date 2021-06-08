@@ -15,7 +15,7 @@ A bike ride in the hills is the solution to all my problems.
 </p>
 
 ### Summary👋
-- 🔭 I’m currently working in Backend Web development using Express and Typescript.
+- 🔭 I’m currently learning Rust.
 - 👨 Skilled in Android Development. Also worked with Blockchains.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
