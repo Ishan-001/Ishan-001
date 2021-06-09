@@ -16,7 +16,7 @@ A bike ride in the hills is the solution to all my problems.
 
 ### Summary👋
 - 🔭 I’m currently learning Rust.
-- 👨 Skilled in Android Development. Also worked with Blockchains.
+- 👨 Skilled in Android Development. Also worked with Node and TS.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
 - 😄 Pronouns: Android Developer, Python Developer, Unity Developer, Backend Developer.
