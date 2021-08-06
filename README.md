@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-axil.ishan3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axil.ishan3@gmail.com)](mailto:axil.ishan3@gmail.com)
 ---
 
-# Sup!
+# Hola!
 I am a sophpmore at VIT Vellore pursuing B.Tech in Computer Science. I am a full stack App Developer and I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. I work as a software developer in Travel Buddy.
 
 ### Teams & Organisations: 
