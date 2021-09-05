@@ -15,7 +15,7 @@ A bike ride in the hills is the solution to all my problems.
 </p>
 
 ### Summary👋
-- 🔭 I’m currently learning Rust and working on Tezos.
+- 🔭 I’m currently learning Rust and working on Algorithmic trading.
 - 👨 Skilled in Android Development. Also worked with Backend, Gamedev and AR.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
