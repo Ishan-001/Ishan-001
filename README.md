@@ -2,14 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-axil.ishan3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axil.ishan3@gmail.com)](mailto:axil.ishan3@gmail.com)
 ---
 
-# Yo!
-I am a sophpmore at VIT Vellore pursuing B.Tech in Computer Science. I am a full stack App Developer and I love to try out new languages and domains. My first language is Java, followed by Python and Kotlin. I work as a software developer in Travel Buddy.
-
-### Teams & Organisations: 
-IEEE-VIT, Codechef-VIT, SmokeTress, BroCode, Travel-Buddy. 
-
-A bike ride in the hills is the solution to all my problems.
-
 <p align="center">
   <img src="https://github.com/Ishan-001/ishan.apk/blob/master/avatar.svg" />
 </p>
@@ -19,9 +11,8 @@ A bike ride in the hills is the solution to all my problems.
 - 👨 Skilled in Android Development. Also worked with Backend, Gamedev and AR.
 - 👯 Eveready to transform brilliant ideas into android apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ishan-khandelwal-apk/)
-- 😄 Pronouns: Android Developer, Python Developer, Unity Developer, Backend Developer.
-- ⚡ Fun fact: I am also a pianist🎹.
-- 💻 [Portfolio](https://ishan-001.github.io/Portfolio/)
+- ⚡ I am also a pianist🎹.
+- 💻 [Portfolio](https://www.androidtate.tech)
 
 ![kotlin](http://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&style=flat-square&color=black)
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=yellow)
